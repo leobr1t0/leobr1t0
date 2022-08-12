@@ -12,7 +12,7 @@
 
 ### 💻 Contact:
 
-<div> <br>
+<div>
     <a href="https://www.linkedin.com/in/leonardo-brito-de-oliveira/" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:leonardo70177@gmail.com" target="_blank"><img alt ="Gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/leozito.jpg/" target="_blank"><img alt ="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
