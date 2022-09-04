@@ -23,8 +23,8 @@
 
 <div>
     <a href="https://github.com/leobr1t0">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leobr1t0&show_icons=true&theme=tokyonight">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobr1t0&theme=tokyonight&layout=compact&langs_count=8">
+       <img height="100em" src="https://github-readme-stats.vercel.app/api?username=leobr1t0&show_icons=true&theme=tokyonight">
+       <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobr1t0&theme=tokyonight&layout=compact&langs_count=8">
     </a>
 </div>
 
