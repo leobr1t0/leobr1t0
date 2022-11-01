@@ -34,9 +34,8 @@
 
 ### 🏆 GitHub Trophies
 
-<div>
-     [![trophy](https://github-profile-trophy.vercel.app/leobr1t0)](https://github.com/leobr1t0/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=leobr1t0)](https://github.com/leobr1t0/github-profile-trophy)
+
 
 ![Snake animation](https://github.com/leobr1t0/leobr1t0/blob/output/github-contribution-grid-snake.svg)
 
