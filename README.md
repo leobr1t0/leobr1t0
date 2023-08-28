@@ -39,9 +39,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leobr1t0&theme=tokyonight)](https://github.com/leobr1t0/github-profile-trophy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
+<!--
 ![Snake animation](https://github.com/leobr1t0/leobr1t0/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 <!--
 **leobr1t0/leobr1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
